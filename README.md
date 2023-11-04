@@ -32,6 +32,6 @@ THREADS
 6)Equal
 7)exit
 8)solutions classical syncronize problem
-9)pending synchronize problem
+9)pending synchronize problem(readers-writers)
 
 Day-4---------------------14-11-2023---------------------------------------------------------------------------------------------------------------------------------------------------------
